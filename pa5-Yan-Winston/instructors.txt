@@ -1,0 +1,4 @@
+Simpson Homer 55000 0 0
+Davis Sara 1 0 0
+Hand Emily 239480 1 1
+Lancaster Keith 67999 0 1
